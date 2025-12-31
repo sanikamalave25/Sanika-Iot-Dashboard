@@ -2,10 +2,21 @@
 
 A stunning real-time IoT Cold Chain Monitoring Dashboard built with React, Firebase, and Leaflet. Track temperature, humidity, and GPS location with beautiful glassmorphism design and route history visualization.
 
+## 🚀 Live Demo
+
+**[View Live Dashboard →](https://cold-chain-iot.vercel.app/)**
+
+![Dashboard Screenshot](./public/dashboard-screenshot.png)
+
+---
+
+---
+
 ![Cold Chain Monitoring](https://img.shields.io/badge/IoT-Cold%20Chain-blue)
 ![React](https://img.shields.io/badge/React-18.3.1-61dafb)
 ![Firebase](https://img.shields.io/badge/Firebase-Realtime-orange)
 ![Vite](https://img.shields.io/badge/Vite-6.0.5-646cff)
+![Live](https://img.shields.io/badge/Live-Vercel-black)
 
 ## 🌟 Features
 
